@@ -1,0 +1,12 @@
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\obj\Debug\CysternyTerminal.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\obj\Debug\CysternyTerminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\obj\Debug\CysternyTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\bin\Debug\CysternyTerminal.exe.config
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\bin\Debug\CysternyTerminal.exe
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\bin\Debug\CysternyTerminal.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\bin\Debug\CysternyF.dll
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\bin\Debug\CysternyF.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\bin\Debug\CysternyF.dll.config
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\obj\Debug\CysternyTerminal.csproj.CopyComplete
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\obj\Debug\CysternyTerminal.exe
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyTerminal\obj\Debug\CysternyTerminal.pdb

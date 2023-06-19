@@ -1,0 +1,7 @@
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\bin\Debug\CysternyF.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\obj\Debug\CysternyF.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\obj\Debug\CysternyF.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\obj\Debug\CysternyF.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\bin\Debug\CysternyF.dll.config
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\bin\Debug\CysternyF.dll
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\CysternyF\obj\Debug\CysternyF.dll

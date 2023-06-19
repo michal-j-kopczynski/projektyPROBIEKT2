@@ -1,0 +1,11 @@
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\obj\Debug\baza_figur_1.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\obj\Debug\baza_figur_1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\bin\Debug\baza_figur_1.dll.config
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\bin\Debug\baza_figur_1.dll
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\bin\Debug\baza_figur_1.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\obj\Debug\baza_figur_1.dll
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\obj\Debug\baza_figur_1.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\bin\Debug\CysternyF.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\obj\Debug\baza_figur_1.csproj.CopyComplete
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\bin\Debug\CysternyF.dll
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\baza_figur_1\bin\Debug\CysternyF.dll.config

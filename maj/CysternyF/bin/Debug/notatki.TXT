@@ -1,0 +1,5 @@
+1) klasa zadanie w cysterny.dll
+2) zadanie.pozbieraj_klasy doda odpowiednie typy do słownika na podstawie załadowanych pluginów (dllek 
+w których są definicje stożków, prostopodłościanów etc) 
+3) zadanie.wczytaj używając textreadera zdobywa stringa z typem, np "st" dla stożka i:
+słownik[napis] gdzie napis jest "st" zwraca odpowiedni string/type() a potem activate.create.instance

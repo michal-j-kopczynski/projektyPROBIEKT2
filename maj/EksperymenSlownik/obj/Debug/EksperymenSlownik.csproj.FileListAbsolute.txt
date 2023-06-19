@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\bin\Debug\EksperymenSlownik.exe.config
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\bin\Debug\EksperymenSlownik.exe
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\bin\Debug\EksperymenSlownik.pdb
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\obj\Debug\EksperymenSlownik.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\obj\Debug\EksperymenSlownik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\obj\Debug\EksperymenSlownik.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\obj\Debug\EksperymenSlownik.exe
+C:\Users\Michał\Desktop\Zdalne zajęcia\4semestr\probiekt2\maj\EksperymenSlownik\obj\Debug\EksperymenSlownik.pdb
